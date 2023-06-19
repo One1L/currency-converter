@@ -1,0 +1,15 @@
+.currency-input {
+  display: flex;
+  gap: 20px;
+  
+  &__input {
+    width: 100%;
+  }
+
+  &__icon {
+    width: 20px;
+    height: 20px;
+    vertical-align: sub;
+    margin-right: 10px;
+  }
+}
